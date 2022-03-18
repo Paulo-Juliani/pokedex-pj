@@ -31,6 +31,26 @@
     padding-right: 20px;
 }
 
-.listagem .pokemon.ativo {
-    background-color: #fa6668;
+.listagem .pokemon.ativo.pikachu{
+    background-color: #FCC719;
+}
+
+.listagem .pokemon.ativo.bulbasaur{
+    background-color: #76BEFE;
+}
+
+.listagem .pokemon.ativo.charmander{
+    background-color: #ED8A8B;
+}
+
+.listagem .pokemon.ativo.gyarados{
+    background-color: #76BEFE;
+}
+
+.listagem .pokemon.ativo.gengar{
+    background-color: #BA68C8
+}
+
+.listagem .pokemon.ativo.dragonite{
+    background-color: #C29791;
 }
